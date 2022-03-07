@@ -4,11 +4,11 @@ In this repo we make a basic signIn and SighUp backend server using basic Auth
 
 ## links
 
-* [PR Link]()
+* [PR Link](https://github.com/salammustafa728/basic-auth/pull/1)
 
-* [action]()
+* [action](https://github.com/salammustafa728/basic-auth/actions)
 
-* [heroku]()
+* [heroku](https://salam-basic-auth.herokuapp.com/)
 
 
 ### UML diagram 
